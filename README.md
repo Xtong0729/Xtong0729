@@ -1,17 +1,14 @@
 ### Hi there 👋
 
 My name is Xuantong Bai (白轩同), a first year econ undergrad @ University of Cambridge, UK.
-<!--
-**Xtong0729/Xtong0729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Some of my potential research interests includes:
+- AI+Econ
+- Dynamic General Equilibrium
+- Growth Theories
+- Social Network
+- Business Cycles and Policies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Besides academia, My interests include philosophy, playing  guitar/bass, rowing, football, watching stars, photography, chess, humanity and learning new languages, etc.
+
+You can contact me with email: [xb230@cam.ac.uk](mailto:xb230@cam.ac.uk)!
