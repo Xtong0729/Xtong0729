@@ -9,6 +9,6 @@ Some of my potential research interests includes:
 - Social Network
 - Business Cycles and Policies
 
-Besides academia, My interests include philosophy, playing  guitar/bass, rowing, football, watching stars, photography, chess, humanity and learning new languages, etc.
+Besides academia, My interests include philosophy, playing  guitar/bass, rowing, football, badminton, photography, chess, general humanity and learning new languages, etc.
 
 You can contact me with email: [xb230@cam.ac.uk](mailto:xb230@cam.ac.uk)!
