@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-##My name is Xuantong Bai (白轩同), a first year econ undergrad at University of Cambridge, UK.
-
+## My name is Xuantong Bai (白轩同), a first year econ undergrad @ University of Cambridge, UK.
 <!--
 **Xtong0729/Xtong0729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
